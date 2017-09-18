@@ -1,0 +1,98 @@
+body {
+  font-size: 2em;
+  background-color: #e3e3e3;
+  background: url(images/bg.jpg) no-repeat center center fixed;
+  background: url("http://www.fairviewsm.com/hp_wordpress/wp-content/uploads/2014/01/best-website-for-background-checks.jpg");
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-repeat: no-repeat;
+  font-family: 'Cutive Mono', monospace;
+
+}
+img {
+ width: 300px;
+  height: 300px;
+  opacity: 1;
+  margin: 20px;
+
+  border-radius: 10%;
+}
+
+.spacer {
+  padding: 10%;
+}
+
+h1 {
+  color: ;
+  585858;
+  font-weight: bold;
+}
+
+.block {
+  background: rgba(0, 0, 0, .8);
+  color: white;
+  padding: 50px;
+  width: 75%;
+  margin-right: auto;
+  margin-left: auto;
+  border-radius: 15px;
+  padding-bottom: 2%;
+}
+
+.photo-of-me {
+  width: 300px;
+  height: 300px;
+  opacity: 1;
+  margin: 20px;
+
+  border-radius: 10%;
+}
+
+.page-2 {
+  font-size: 2em;
+  background-color: #e3e3e3;
+  background: url("http://www.fairviewsm.com/hp_wordpress/wp-content/uploads/2014/01/best-website-for-background-checks.jpg") no-repeat center center fixed;
+  background: -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-repeat: no-repeat;
+  font-family: 'Cutive Mono', monospace;
+}
+.page-3{
+font-size: 2em;
+  background-color: #e3e3e3;
+  background: url("http://www.fairviewsm.com/hp_wordpress/wp-content/uploads/2014/01/best-website-for-background-checks.jpg") no-repeat center center fixed;
+  background: -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-repeat: no-repeat;
+  font-family: 'Cutive Mono', monospace;
+
+}
+.row{
+padding:5%;
+
+}
+.btn{
+  font-size:150%;
+
+
+}
+.btn:hover{
+
+}
+.page-3{
+   font-size: 2em;
+  background-color: #e3e3e3;
+  background: url(https://images.unsplash.com/photo-1468476775582-6bede20f356f?dpr") no-repeat center center fixed;
+  background: -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-repeat: no-repeat;
+  font-family: 'Cutive Mono', monospace;
+}
